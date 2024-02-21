@@ -1,0 +1,4 @@
+#ignore settings folder 
+settings
+#ignore any file with .log extension
+*.log
